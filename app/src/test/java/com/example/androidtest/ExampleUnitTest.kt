@@ -17,6 +17,6 @@ class ExampleUnitTest {
 
     @Test
     fun `verify 2 times 2 is 4`() {
-        assertEquals(5, 2.times(2))
+        assertEquals(4, 2.times(2))
     }
 }
