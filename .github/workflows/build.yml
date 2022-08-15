@@ -39,5 +39,5 @@ jobs:
 
     steps:
       - name: Run Tests
-        run: ./gradlew app:testDebugUnitTest
+        run: ./gradlew testDebugUnitTest
 
